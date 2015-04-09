@@ -1,0 +1,22 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   bootstrap/css/bootstrap-theme.css
+#	new file:   bootstrap/css/bootstrap-theme.css.map
+#	new file:   bootstrap/css/bootstrap-theme.min.css
+#	new file:   bootstrap/css/bootstrap.css.map
+#	new file:   bootstrap/fonts/glyphicons-halflings-regular.eot
+#	new file:   bootstrap/fonts/glyphicons-halflings-regular.svg
+#	new file:   bootstrap/fonts/glyphicons-halflings-regular.ttf
+#	new file:   bootstrap/fonts/glyphicons-halflings-regular.woff
+#	new file:   bootstrap/fonts/glyphicons-halflings-regular.woff2
+#	new file:   bootstrap/js/bootstrap.js
+#	new file:   bootstrap/js/bootstrap.min.js
+#	new file:   bootstrap/js/npm.js
+#	new file:   css/main_style.css
+#	new file:   template.html
+#
