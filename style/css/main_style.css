@@ -44,8 +44,22 @@ html, body {
 	color: #598CBA;
 }
 
+#choice-button-no {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    border: 1px solid #000;
+    color: #FF0000;
+}
+
+#choice-button-yes{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    border: 1px solid #000;
+    color: #33CC33;
+
 .css-center {
 	display: inline-block;
     vertical-align: middle;
     float: none;
-}
